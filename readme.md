@@ -1,1 +1,1 @@
-ruayehgfouiefh
+This is my SE1400 assignment page. don't touch it ;(
