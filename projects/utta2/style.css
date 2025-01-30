@@ -17,6 +17,7 @@ header h1 {
 nav {
     font-weight: bold;
     background-color: #F3F3F3;
+    text-decoration: none;
 }
 h2 {
     color: #424242;
