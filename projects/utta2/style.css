@@ -51,6 +51,7 @@ h1 {
     padding-left: 1em;
     background-origin: content-box;
     margin-bottom: 0;
+    background-repeat: no-repeat;
 
 }
 h3 {
