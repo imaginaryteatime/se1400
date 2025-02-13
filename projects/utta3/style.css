@@ -95,21 +95,21 @@ main {
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
-    grid-area: 3 / 1 / 4 / -1;
+    grid-area: 3 / 2 / 4 / -2;
 }
 #studenthero {
     background-image: url(utahtechimages/utahtechimages/studenthero.jpg);
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
-    grid-area: 3 / 1 / 4 / -1;
+    grid-area: 3 / 2 / 4 / -2;
 }
 #facultyhero {
     background-image: url(utahtechimages/utahtechimages/facultyhero.jpg);
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
-    grid-area: 3 / 1 / 4 / -1;
+    grid-area: 3 / 2 / 4 / -2;
 }
 * {
     box-sizing: border-box;
