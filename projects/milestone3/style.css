@@ -16,8 +16,8 @@ nav {
     height: 100px;
 }
 footer {
-    grid-column: 3 / -1;
-    grid-row: 1 / -1;
+    grid-column: 1 / -1;
+    grid-row: 3 / -1;
     background-color: orange;
 }
 main {
