@@ -1,7 +1,7 @@
-body {
+#wrapper {
     display: grid;
-    grid-template-columns: minmax(0px, 1fr) repeat(4, minmax(0, 175px));
     grid-template-rows: 15% 70% 15%;
+    grid-template-columns: minmax(0px, 1fr) repeat(2, minmax(0, 175px)) minmax(0px, 1fr);
 }
 nav {
     grid-area: 0 / 2 / 1 / -2;
