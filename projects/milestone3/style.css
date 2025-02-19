@@ -6,6 +6,7 @@
 header {
     grid-area: 1 / 2 / 2 / -2;
     background-color: blue;
+    height: 100px;
 }
 nav {
     grid-area: 2 / 2 / 3 / 3;
