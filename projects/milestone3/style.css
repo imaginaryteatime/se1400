@@ -4,7 +4,7 @@
     grid-template-columns: minmax(0px, 1fr) repeat(3, minmax(0, 175px)) minmax(0px, 1fr);
 }
 header {
-    grid-area: 0 / 2 / 1 / -2;
+    grid-area: 1 / 2 / 2 / -2;
     background-color: blue;
 }
 nav {
