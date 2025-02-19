@@ -1,4 +1,4 @@
-main {
+body {
     display: grid;
     grid-template-columns: minmax(0px, 1fr) repeat(4, minmax(0, 175px));
     grid-template-rows: 15% 70% 15%;
