@@ -17,3 +17,6 @@ footer {
     grid-area: 2 / 2 / 3 / -2;
     background-color: orange;
 }
+main {
+    grid-area: 3 / 2 / -2 / -2;
+}
