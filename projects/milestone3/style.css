@@ -11,6 +11,7 @@ header {
 nav {
     grid-area: 2 / 2 / 3 / 3;
     background-color: red;
+    height: 100px;
 }
 footer {
     grid-area: 2 / 2 / 3 / -2;
