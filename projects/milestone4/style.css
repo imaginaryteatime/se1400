@@ -8,6 +8,7 @@ header {
     grid-row: 1 / 2;
     background-color: rgba(38, 36, 35, .9);
     padding-left: 1em;
+    text
 }
 nav {
     grid-column: 2 / 3;
@@ -20,6 +21,7 @@ main {
     grid-row: 2 / -2;
     background-color: green;
     padding-left: 1em;
+    color:#DBDBDB;
 }
 body {
     background-color: #DBDBDB;
