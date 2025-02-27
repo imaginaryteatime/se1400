@@ -14,6 +14,7 @@ nav {
     grid-row: 2 / -2;
     background-color: red;
     padding-left: 1em;
+    padding-top: 1em;
 }
 main {
     grid-column: 3 / -2;
