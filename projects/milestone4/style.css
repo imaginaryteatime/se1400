@@ -21,6 +21,10 @@ main {
     grid-row: 2 / -2;
     background-color: green;
 }
+body {
+    padding: 0px;
+    margin: 0px;
+}
 footer {
     grid-column: 1 / -1;
     grid-row: 3 / -1;
