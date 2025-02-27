@@ -13,14 +13,15 @@ nav {
     grid-column: 2 / 3;
     grid-row: 2 / -2;
     background-color: red;
-}
-footer {
-    grid-column: 1 / -1;
-    grid-row: 3 / -1;
-    background-color: orange;
+    padding-left: 1em;
 }
 main {
     grid-column: 3 / -2;
     grid-row: 2 / -2;
     background-color: green;
+}
+footer {
+    grid-column: 1 / -1;
+    grid-row: 3 / -1;
+    background-color: orange;
 }
