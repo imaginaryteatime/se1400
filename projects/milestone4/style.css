@@ -11,10 +11,13 @@ header {
     color:#DBDBDB;
 }
 header h1 {
+    line-height: 14%;
+    padding: .5rem;
     background-image: url("images/minecraft.blocl.jpg");
     background-position: left;
     background-repeat: no-repeat;
     background-origin: content-box;
+    margin-bottom: 0;
 }
 nav {
     grid-column: 2 / 3;
