@@ -37,7 +37,7 @@ main {
     padding-left: 1em;
 }
 main img {
-    height:auto;
+    height:fit-content;
 }
 body {
     background-color: #DBDBDB;
