@@ -10,6 +10,12 @@ header {
     padding-left: 1em;
     color:#DBDBDB;
 }
+header h1 {
+    background-image: url("images/minecraft.blocl.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
 nav {
     grid-column: 2 / 3;
     grid-row: 2 / -2;
