@@ -35,7 +35,9 @@ main {
     grid-row: 2 / -2;
     background-color: green;
     padding-left: 1em;
-
+}
+main img {
+    height:auto;
 }
 body {
     background-color: #DBDBDB;
