@@ -7,10 +7,8 @@ header {
     grid-column: 1 / -1;
     grid-row: 1 / 2;
     background-color: rgba(38, 36, 35, .9);
-    padding-left: 45px;
+    
     color:#DBDBDB;
-}
-header h1 {
     line-height: 14%;
     padding: .5rem;
     background-image: url("images/minecraft.blocl.jpg");
@@ -19,6 +17,9 @@ header h1 {
     background-repeat: no-repeat;
     background-origin: content-box;
     margin-bottom: 0;
+}
+header h1 {
+    padding-left: 45px;
 }
 nav {
     grid-column: 2 / 3;
