@@ -7,14 +7,14 @@ header {
     grid-column: 1 / -1;
     grid-row: 1 / 2;
     background-color: rgba(38, 36, 35, .9);
-    padding-left: 1em;
+    padding-left: 45px;
     color:#DBDBDB;
 }
 header h1 {
     line-height: 14%;
     padding: .5rem;
     background-image: url("images/minecraft.blocl.jpg");
-    background-size: 20px;
+    background-size: 30px;
     background-position: left;
     background-repeat: no-repeat;
     background-origin: content-box;
