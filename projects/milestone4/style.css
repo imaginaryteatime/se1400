@@ -38,7 +38,7 @@ main {
 }
 main img {
     height:300px;
-    background-size: cover;
+    
     background-repeat: no-repeat;
     background-position: center;
 }
