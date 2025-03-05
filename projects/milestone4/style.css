@@ -53,6 +53,9 @@ body {
     padding: 0px;
     margin: 0px;
 }
+ul {
+    font-size: 12px;
+}
 footer {
     grid-column: 1 / -1;
     grid-row: 3 / -1;
