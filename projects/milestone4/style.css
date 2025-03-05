@@ -19,6 +19,7 @@ header {
 }
 header h1 {
     padding-left: 80px;
+    padding-top: 45px;
 }
 nav {
     grid-column: 2 / 3;
