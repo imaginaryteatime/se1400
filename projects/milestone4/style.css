@@ -24,7 +24,7 @@ header h1 {
 nav {
     grid-column: 2 / 3;
     grid-row: 2 / -2;
-    background-color: #D6D6D6;
+    background-color: #917665;
     line-height: 140%;
     padding-top: 1em ;
 }
