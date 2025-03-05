@@ -64,3 +64,7 @@ footer {
     background-color:  rgba(38, 36, 35, .9);
     padding-left: 1em;
 }
+footer p {
+    color: #251A15;
+    font-style: italic;
+}
