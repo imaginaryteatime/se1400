@@ -37,7 +37,7 @@ nav a {
     text-decoration: none;
 }
 nav a:hover {
-    background-color: #E6E6E6;
+    font-size: 20px;
 }
 main {
     grid-column: 3 / -2;
