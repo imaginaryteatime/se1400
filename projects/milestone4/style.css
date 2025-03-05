@@ -32,7 +32,7 @@ nav a {
     border-style: solid;
     border: black;
     font-style: none;
-    padding: 1em;
+    padding: .7em;
 }
 nav a:hover {
     background-color: #E6E6E6;
