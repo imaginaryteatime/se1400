@@ -14,7 +14,7 @@ header {
     background-size: 60px;
     background-position: left;
     background-repeat: no-repeat;
-    
+    background-origin: content-box;
     margin-bottom: 0;
 }
 header h1 {
