@@ -1,6 +1,6 @@
 #wrapper {
     display: grid;
-    grid-template-rows: 1fr 6fr 1fr;
+    grid-template-rows: 1fr 8fr 1fr;
     grid-template-columns: 1fr 2fr repeat(2, 5fr) 1fr;
 }
 header {
