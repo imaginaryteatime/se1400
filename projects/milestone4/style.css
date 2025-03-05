@@ -7,12 +7,11 @@ header {
     grid-column: 1 / -1;
     grid-row: 1 / 2;
     background-color: rgba(38, 36, 35, .9);
-    
     color:#DBDBDB;
     line-height: 14%;
-    padding: .5rem;
+    padding: 0%;
     background-image: url("images/minecraft.blocl.jpg");
-    background-size: 30px;
+    background-size: 60px;
     background-position: left;
     background-repeat: no-repeat;
     background-origin: content-box;
@@ -26,6 +25,10 @@ nav {
     grid-row: 2 / -2;
     background-color: #D6D6D6;
     padding: 1em;
+}
+nav a {
+    border: black;
+    font-style: none;
 }
 nav a:hover {
     background-color: #E6E6E6;
