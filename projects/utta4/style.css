@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 body {
     background-color:#FFFFFF;
     color: #666666;
@@ -97,6 +100,7 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     grid-area: 3 / 2 / 4 / -2;
+    background-position: center;
 }
 #studenthero {
     background-image: url(utahtechimages/utahtechimages/studenthero.jpg);
@@ -104,6 +108,7 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     grid-area: 3 / 2 / 4 / -2;
+    background-position: center;
 }
 #facultyhero {
     background-image: url(utahtechimages/utahtechimages/facultyhero.jpg);
@@ -111,10 +116,9 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     grid-area: 3 / 2 / 4 / -2;
+    background-position: center;
 }
-* {
-    box-sizing: border-box;
-}
+
 header h1 a {
     color: #FFFFFF;
     text-decoration: none;
