@@ -135,6 +135,21 @@ footer {
     grid-area: 5 / 2 / 6 / 8;
 }
 
+form {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 200px 1fr;
+    gap: .75rem;
+    width: 100%;
+}
+input textarea {
+    font-size: 1rem;
+    padding: 10px;
+    color: #666666;
+    background-color: #FAFAFA;
+    border: none;
+}
+
 /*MOBILE*/
 
 @media only screen and (max-width: 1100px) {
