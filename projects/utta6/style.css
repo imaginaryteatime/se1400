@@ -179,9 +179,11 @@ td, th {
 td {
     text-align: center;
 }
-td.uni {
+td:nth-of-type(1) {
     text-align: left;
 }
+
+
 /*MOBILE*/
 
 @media only screen and (max-width: 1100px) {
