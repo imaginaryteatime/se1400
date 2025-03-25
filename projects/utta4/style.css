@@ -94,12 +94,14 @@ main {
     padding-right: 2rem;
     grid-area: 4 / 2 / 5 / 8;
 }
+#homehero #studenthero #facultyhero {
+    grid-area: 3 / 2 / 4 / -2;
+}
 #homehero {
     background-image: url(utahtechimages/utahtechimages/homehero.jpg);
     height: 300px;
     background-size: cover;
-    background-repeat: no-repeat;
-    grid-area: 3 / 2 / 4 / -2;
+    background-repeat: no-repeat;  
     background-position: center;
 }
 #studenthero {
@@ -107,7 +109,6 @@ main {
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
-    grid-area: 3 / 2 / 4 / -2;
     background-position: center;
 }
 #facultyhero {
@@ -115,7 +116,6 @@ main {
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
-    grid-area: 3 / 2 / 4 / -2;
     background-position: center;
 }
 
