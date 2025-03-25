@@ -179,7 +179,9 @@ td, th {
 td {
     text-align: center;
 }
-
+td.uni {
+    text-align: left;
+}
 /*MOBILE*/
 
 @media only screen and (max-width: 1100px) {
