@@ -94,7 +94,7 @@ main {
     padding-right: 2rem;
     grid-area: 4 / 2 / 5 / 8;
 }
-#homehero, #studenthero, #facultyhero {
+#homehero, #studenthero, #facultyhero, #alumnihero {
     grid-area: 3 / 2 / 4 / -2;
 }
 #homehero {
@@ -116,6 +116,13 @@ main {
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+}
+#alumnihero {
+    background-image: url(utahtechimages/homehero.jpg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;  
     background-position: center;
 }
 header h1 a {
@@ -146,6 +153,18 @@ input textarea {
     color: #666666;
     background-color: #FAFAFA;
     border: none;
+}
+:focus {
+    outline: none;
+    background-color: #F0F0F0;
+}
+label {
+    padding: 10px;
+    text-align: right;
+}
+#mySubmit {
+    width: 10rem;
+    grid-column: 2 / 3;
 }
 
 /*MOBILE*/
