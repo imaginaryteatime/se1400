@@ -65,6 +65,9 @@ body {
     padding: 0px;
     margin: 0px;
 }
+p {
+    font-size: 20;
+}
 ul {
     font-size: 20px;
 }
