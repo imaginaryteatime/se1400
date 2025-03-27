@@ -30,6 +30,7 @@ nav {
     background-color: #917665;
     line-height: 140%;
     padding: .5em ;
+    text-align: center;
 }
 nav a {
     border-style: solid;
@@ -39,7 +40,6 @@ nav a {
     padding: .7em;
     color: #251A15;
     text-decoration: none;
-    text-align: center;
 }
 nav a:hover {
     font-size: 20px;
