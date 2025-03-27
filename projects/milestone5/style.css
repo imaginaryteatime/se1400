@@ -58,7 +58,7 @@ main {
 }
 main img {
     max-width: 50%;
-    max-height: auto;
+    max-height: 50%;
     position: center;
 }
 body {
