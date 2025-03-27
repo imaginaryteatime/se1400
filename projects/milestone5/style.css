@@ -56,7 +56,7 @@ main {
     font-size: large;
 }
 main img {
-    height:auto;
+    column-span: 3 / 5;
     background-repeat: no-repeat;
     background-position: center;
 }
