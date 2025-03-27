@@ -56,6 +56,7 @@ main {
     font-size: large;
 }
 main img {
+    height: 1000;
     max-width: 100%;
     max-height: auto ;
 }
