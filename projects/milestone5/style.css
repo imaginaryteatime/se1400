@@ -56,9 +56,8 @@ main {
     font-size: large;
 }
 main img {
-
-    max-width: 100%;
-    max-height: auto ;
+    max-width: auto;
+    max-height: 100% ;
 }
 body {
     background-color: #C5AE9C;
