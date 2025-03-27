@@ -56,11 +56,6 @@ main {
     color: #142614;
     font-size: large;
 }
-main img {
-    max-width: 50%;
-    max-height: 50%;
-    position: center;
-}
 body {
     background-color: #C5AE9C;
     padding: 0px;
