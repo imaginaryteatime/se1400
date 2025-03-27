@@ -1,3 +1,6 @@
+* {
+    font-family:monospace;
+}
 #wrapper {
     display: grid;
     grid-template-rows: .5fr .5fr 9fr 1fr;
