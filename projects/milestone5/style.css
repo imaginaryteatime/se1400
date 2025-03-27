@@ -31,7 +31,8 @@ nav {
 nav a {
     border-style: solid;
     border: black;
-    font-style: bold;
+    font-style:none;
+    font-weight: bold;
     padding: .7em;
     color: #251A15;
     text-decoration: none;
