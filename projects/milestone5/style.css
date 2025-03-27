@@ -26,7 +26,7 @@ nav {
     grid-row: 3 / -2;
     background-color: #917665;
     line-height: 140%;
-    padding: 1em ;
+    padding: .5em ;
 }
 nav a {
     border-style: solid;
