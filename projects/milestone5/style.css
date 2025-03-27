@@ -37,7 +37,7 @@ nav {
 nav a {
     background-color: #52432f;
     border: none;
-    color: white;
+    color: #917665;
     padding: 5px;
     text-align: center;
     text-decoration: none;
@@ -46,11 +46,12 @@ nav a {
 }
 nav a:hover {
     background-color: ;
+    color: white;
 }
 main {
     grid-column: 3 / -2;
     grid-row: 3 / -2;
-    background-color: green;
+    background-color: #8ec98b;
     padding-left: 1em;
 }
 main img {
