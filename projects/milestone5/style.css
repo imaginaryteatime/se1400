@@ -56,6 +56,11 @@ main {
     color: #142614;
     font-size: large;
 }
+main img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
 body {
     background-color: #C5AE9C;
     padding: 0px;
