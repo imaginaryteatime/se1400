@@ -45,7 +45,7 @@ nav a {
     font-weight: bold;
 }
 nav a:hover {
-    background-color: ;
+    background-color: #6dad6a;
 }
 main {
     grid-column: 3 / -2;
