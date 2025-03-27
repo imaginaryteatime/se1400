@@ -79,7 +79,7 @@ footer a {
         grid-template-columns: minmax(0px, 1fr) minmax(0, 2fr) repeat(2, minmax(0, 5fr)) minmax(0px, 1fr);
     }
 }
-@media only screen and (max-width: 992px)
+@media only screen and (max-width: 992px) {
     nav {
         grid-area: 1 / 2 / 3 / 5;
         position: static;
