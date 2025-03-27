@@ -56,7 +56,7 @@ main {
     font-size: large;
 }
 main img {
-    height:300px;
+    height:auto;
     background-repeat: no-repeat;
     background-position: center;
 }
