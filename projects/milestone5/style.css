@@ -10,7 +10,7 @@ header {
     grid-column: 1 / -1;
     grid-row: 1 / 3;
     background-color: rgba(38, 36, 35, .9);
-    color:#DBDBDB;
+    color:whitesmoke;
     line-height: 14%;
     padding: 0.5rem;
     background-image: url("images/minecraft.blocl.jpg");
@@ -36,7 +36,7 @@ nav {
 nav a {
     background-color: #3b2c21;
     border: none;
-    color: white;
+    color: whitesmoke;
     padding: 5px;
     text-align: center;
     text-decoration: none;
