@@ -85,8 +85,11 @@ footer a {
         grid-area: 1 / 1 / 2 / -1;
     }
     nav {
-        grid-area: 2 / 3 / 3 / 5;
+        grid-area: 2 / 2 / 3 / 5;
         position: static;
+    }
+    main {
+        grid-area: 2 / 2 / 3 / 5;
     }
 }
 @media only screen and (max-width: 768px) {
