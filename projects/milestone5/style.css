@@ -1,11 +1,11 @@
 #wrapper {
     display: grid;
-    grid-template-rows: 1fr 9fr 1fr;
+    grid-template-rows: .5fr .5fr 9fr 1fr;
     grid-template-columns: 1fr 2fr repeat(2, 5fr) 1fr;
 }
 header {
     grid-column: 1 / -1;
-    grid-row: 1 / 2;
+    grid-row: 1 / 3;
     background-color: rgba(38, 36, 35, .9);
     color:#DBDBDB;
     line-height: 14%;
@@ -23,7 +23,7 @@ header h1 {
 }
 nav {
     grid-column: 2 / 3;
-    grid-row: 2 / -2;
+    grid-row: 3 / -2;
     background-color: #917665;
     line-height: 140%;
     padding-top: 1em ;
@@ -41,7 +41,7 @@ nav a:hover {
 }
 main {
     grid-column: 3 / -2;
-    grid-row: 2 / -2;
+    grid-row: 3 / -2;
     background-color: green;
     padding-left: 1em;
 }
@@ -60,7 +60,7 @@ ul {
 }
 footer {
     grid-column: 1 / -1;
-    grid-row: 3 / -1;
+    grid-row: 4 / -1;
     background-color:  rgba(38, 36, 35, .9);
     padding-left: 1em;
     padding-top: 1.8em; 
