@@ -56,7 +56,8 @@ main {
     font-size: large;
 }
 main img {
-    column-span: 3 / 5;
+    max-width: fit-content;
+    max-height: auto ;
     background-repeat: no-repeat;
     background-position: center;
 }
