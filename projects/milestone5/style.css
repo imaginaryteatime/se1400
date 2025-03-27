@@ -41,7 +41,7 @@ nav a {
     padding: .7em;
     color: #251A15;
     text-decoration: none;
-    border: 3px solid #251A15;
+    border: 1px solid #251A15;
 }
 nav a:hover {
     font-size: 20px;
