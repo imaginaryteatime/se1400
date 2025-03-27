@@ -28,7 +28,7 @@ nav {
     grid-column: 2 / 3;
     grid-row: 3 / -2;
     background-color: #917665;
-    line-height: 150%;
+    line-height: 100%;
     padding: .5em ;
     text-align: center;
     white-space:nowrap;
