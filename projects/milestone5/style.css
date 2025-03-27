@@ -34,7 +34,7 @@ nav {
     white-space: nowrap;
 }
 nav a {
-    background-color: #2e4a36;
+    background-color: #3b2c21;
     border: none;
     color: #917665;
     padding: 5px;
@@ -45,7 +45,7 @@ nav a {
     font-weight: bold;
 }
 nav a:hover {
-    color: white;
+    background-color: ;
 }
 main {
     grid-column: 3 / -2;
