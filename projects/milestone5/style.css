@@ -34,14 +34,16 @@ nav {
     white-space:nowrap;
 }
 nav a {
-    border-style: solid;
-    border: black;
-    font-style:none;
-    font-weight: bold;
-    padding: .7em;
-    color: #251A15;
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
     text-decoration: none;
-    border: 1px solid #251A15;
+    display: inline-block;
+    font-size: 16px;
+
+    
 }
 nav a:hover {
     font-size: 20px;
