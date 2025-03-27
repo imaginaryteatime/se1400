@@ -56,7 +56,7 @@ main {
     font-size: large;
 }
 main img {
-    max-width: fit-content;
+    max-width: 100%;
     max-height: auto ;
     background-repeat: no-repeat;
     background-position: center;
