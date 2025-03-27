@@ -52,6 +52,7 @@ main {
     grid-row: 3 / -2;
     background-color: #6dad6a;
     padding-left: 1em;
+    color: #142614;
 }
 main img {
     height:300px;
