@@ -80,6 +80,9 @@ footer a {
     }
 }
 @media only screen and (max-width: 992px) {
+    header {
+        grid-area: 1 / 1 / 2 / -1;
+    }
     nav {
         grid-area: 2 / 3 / 3 / 5;
         position: static;
