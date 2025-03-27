@@ -59,6 +59,7 @@ main {
 main img {
     max-width: 100%;
     max-height: auto;
+    position: center;
 }
 body {
     background-color: #C5AE9C;
