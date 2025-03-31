@@ -38,6 +38,7 @@ nav a {
     padding: 1rem 0rem;
     display: block;
     text-align: center;
+    transition: .05s background-color ease-out;
 }
 nav a:hover {
     background-color: #BA1C21;
@@ -51,6 +52,10 @@ nav ul {
 }
 nav ul li {
     width: 100%;
+}
+embed {
+    float: right;
+    margin-left: 2em;
 }
 h2 {
     color: #424242;
@@ -197,6 +202,12 @@ tr:nth-of-type(even) {
     nav {
         grid-area: 2 / 1 / 3 / 5;
         position: static;
+    }
+    embed {
+        float: none;
+        margin: 0%;
+        width: 100%;
+        height: auto;
     }
     #homehero {
         grid-area: 2 / 5 / 3 / 8;
