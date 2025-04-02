@@ -36,7 +36,7 @@ nav.homenav {
     background-color: #917665;
 }
 nav.nethernav {
-    background-color: #663150;
+    background-color: #e8862a;
 }
 nav a {
     border: none;
@@ -52,7 +52,7 @@ nav.homenav a {
     color: whitesmoke;
 }
 nav.nethernav a {
-    background-color: #401c31;
+    background-color: #e37005;
     color: whitesmoke;
 }
 nav a:hover {
