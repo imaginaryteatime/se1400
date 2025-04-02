@@ -62,9 +62,15 @@ main.nether {
     background-color: #ad4b47;
 }
 body {
-    background-color: #C5AE9C;
+    
     padding: 0px;
     margin: 0px;
+}
+body.home {
+    background-color: #C5AE9C;
+}
+body.nether {
+    background-color: #7d3432;
 }
 p {
     font-size: 20;
