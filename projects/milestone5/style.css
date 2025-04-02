@@ -46,8 +46,9 @@ nav.homenav a {
     background-color: #3b2c21;
     color: whitesmoke;
 }
-nav.nether a {
-
+nav.nethernav a {
+    background-color: #401c31;
+    color: whitesmoke;
 }
 nav a:hover {
     background-color: #427044;
