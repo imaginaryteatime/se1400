@@ -67,7 +67,7 @@ body.home {
     background-color: #C5AE9C;
 }
 body.nether {
-    background-color: #844243;
+    background-color: #713433;
 }
 main {
     grid-column: 3 / -2;
@@ -81,7 +81,7 @@ main.home {
     color: #142614;
 }
 main.nether {
-    background-color: #713433;
+    background-color: #844243;
 }
 p {
     font-size: 20;
