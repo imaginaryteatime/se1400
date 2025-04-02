@@ -50,11 +50,13 @@ nav a:hover {
 main {
     grid-column: 3 / -2;
     grid-row: 3 / -2;
-    background-color: #6dad6a;
     padding-left: 1em;
     padding-right: 1em;
-    color: #142614;
     font-size: large;
+}
+main.home {
+    background-color: #6dad6a;
+    color: #142614;
 }
 main.nether {
     background-color: #ad4b47;
