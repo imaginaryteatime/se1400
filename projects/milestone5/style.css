@@ -56,7 +56,9 @@ main {
     color: #142614;
     font-size: large;
 }
-
+main.nether {
+    background-color: #ad4b47;
+}
 body {
     background-color: #C5AE9C;
     padding: 0px;
