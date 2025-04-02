@@ -34,8 +34,6 @@ nav {
     white-space: nowrap;
 }
 nav a {
-    background-color: #3b2c21;
-    color: whitesmoke;
     border: none;
     padding: 5px;
     text-align: center;
@@ -43,6 +41,10 @@ nav a {
     display: block;
     font-size: 16px;
     font-weight: bold;
+}
+nav.homenav a {
+    background-color: #3b2c21;
+    color: whitesmoke;
 }
 nav.nether a {
 
