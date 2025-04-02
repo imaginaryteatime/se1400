@@ -47,6 +47,17 @@ nav a {
 nav a:hover {
     background-color: #427044;
 }
+body {
+    
+    padding: 0px;
+    margin: 0px;
+}
+body.home {
+    background-color: #C5AE9C;
+}
+body.nether {
+    background-color: #7d3432;
+}
 main {
     grid-column: 3 / -2;
     grid-row: 3 / -2;
@@ -60,17 +71,6 @@ main.home {
 }
 main.nether {
     background-color: #ad4b47;
-}
-body {
-    
-    padding: 0px;
-    margin: 0px;
-}
-body.home {
-    background-color: #C5AE9C;
-}
-body.nether {
-    background-color: #7d3432;
 }
 p {
     font-size: 20;
