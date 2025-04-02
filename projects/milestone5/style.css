@@ -33,7 +33,7 @@ nav {
     text-align: center;
     white-space: nowrap;
 }
-nav.homenav a {
+nav a {
     background-color: #3b2c21;
     color: whitesmoke;
     border: none;
