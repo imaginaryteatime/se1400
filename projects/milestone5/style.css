@@ -56,10 +56,7 @@ main {
     color: #142614;
     font-size: large;
 }
-main img {
-    display: block;
-    margin: auto;
-}
+
 body {
     background-color: #C5AE9C;
     padding: 0px;
@@ -102,6 +99,10 @@ footer a {
     }
     main {
         grid-column: 2 / 5;
+    }
+    main img {
+        display: block;
+        margin: auto;
     }
 }
 @media only screen and (max-width: 768px) {
