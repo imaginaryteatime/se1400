@@ -55,8 +55,11 @@ nav.nethernav a {
     background-color: #C94208;
     color: whitesmoke;
 }
-nav a:hover {
+nav.homenav a:hover {
     background-color: #427044;
+}
+nav.nethernav a:hover {
+    background-color: #844243;
 }
 body {
     
