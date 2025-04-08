@@ -82,6 +82,9 @@ body.home {
 body.nether {
     background-color: #713433;
 }
+body.ocean {
+    background-color: #3838D8;
+}
 main {
     grid-column: 3 / -2;
     grid-row: 3 / -2;
