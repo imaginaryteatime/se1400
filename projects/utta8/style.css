@@ -197,6 +197,12 @@ td:nth-of-type(1) {
 tr:nth-of-type(even) {
     background-color: #F3F3F3;
 }
+#shoppingcart img {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 3;
+}
 
 /*MOBILE*/
 
@@ -226,6 +232,12 @@ tr:nth-of-type(even) {
         height: auto;
         padding-left: 0px;
     }
+    #shoppingcart img {
+        width: 100%;
+        height: auto;
+        display: grid;
+        grid-template-columns: 2;
+    }
 }
 @media only screen and (max-width: 600px) {
     header h1 {
@@ -237,5 +249,11 @@ tr:nth-of-type(even) {
     }
     #homehero, #studenthero, #facultyhero, #shophero {
         display: none;
+    }
+    #shoppingcart img {
+        width: 100%;
+        height: auto;
+        display: grid;
+        grid-template-columns: 1;
     }
 }
