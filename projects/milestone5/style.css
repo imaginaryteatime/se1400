@@ -58,10 +58,17 @@ nav.nethernav a {
     background-color: #C94208;
     color: whitesmoke;
 }
+nav.oceannav a {
+    background-color: #3b2c21;
+    color: whitesmoke;
+}
 nav.homenav a:hover {
     background-color: #427044;
 }
 nav.nethernav a:hover {
+    background-color: #844243;
+}
+nav.oceannav a:hover {
     background-color: #844243;
 }
 body {
