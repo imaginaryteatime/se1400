@@ -62,6 +62,10 @@ nav.oceannav a {
     background-color: #222D6D;
     color: whitesmoke;
 }
+nav.endnav a {
+    background-color: #B692AC;
+    color: #142614;
+}
 nav.homenav a:hover {
     background-color: #427044;
 }
