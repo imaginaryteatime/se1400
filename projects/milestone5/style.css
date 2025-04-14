@@ -109,6 +109,9 @@ main.nether {
 main.ocean {
     background-color: #77aafc;
 }
+main.end {
+    background-color: #E3E4AA ;
+}
 p {
     font-size: 20px;
 }
