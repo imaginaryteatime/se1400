@@ -41,6 +41,9 @@ nav.nethernav {
 nav.oceannav {
     background-color: #3039A0;
 }
+nav.endnav {
+    background-color: #B692AC;
+}
 nav a {
     border: none;
     padding: 5px;
@@ -63,7 +66,7 @@ nav.oceannav a {
     color: whitesmoke;
 }
 nav.endnav a {
-    background-color: #B692AC;
+    background-color: #7B5879;
     color: #142614;
 }
 nav.homenav a:hover {
