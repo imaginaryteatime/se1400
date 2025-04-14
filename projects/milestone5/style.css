@@ -92,6 +92,9 @@ body.nether {
 body.ocean {
     background-color: #dfb8a1;
 }
+body.end {
+    background-color: #CEC58A;
+}
 main {
     grid-column: 3 / -2;
     grid-row: 3 / -2;
@@ -110,7 +113,7 @@ main.ocean {
     background-color: #77aafc;
 }
 main.end {
-    background-color: #E3E4AA ;
+    background-color: #EEF5B2 ;
 }
 p {
     font-size: 20px;
