@@ -119,6 +119,9 @@ main.ocean {
 main.end {
     background-color: #EEF5B2 ;
 }
+img {
+    height: 250px;
+}
 p {
     font-size: 20px;
 }
