@@ -13,7 +13,7 @@ header {
     color:whitesmoke;
     line-height: 14%;
     padding: 0.5rem;
-    /*background-image: url("images/minecraft.blocl.jpg");*/
+    background-image: url("images/minecraft.blocl.jpg");
     background-size: 60px;
     background-position: left;
     background-repeat: no-repeat;
@@ -83,7 +83,6 @@ nav.endnav a:hover {
     color: #142614;
 }
 body {
-    
     padding: 0px;
     margin: 0px;
 }
