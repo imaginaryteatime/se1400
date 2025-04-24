@@ -8,7 +8,7 @@
 }
 header {
     grid-column: 1 / -1;
-    grid-row: 1 / 3;
+    grid-row: 1 / 2;
     background-color: rgba(38, 36, 35, .9);
     color:whitesmoke;
     line-height: 14%;
