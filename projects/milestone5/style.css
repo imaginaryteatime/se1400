@@ -107,10 +107,11 @@ main {
 }
 main.home {
     background-color: #6dad6a;
-    color: #142614;
+    color: #152c15;
 }
 main.nether {
     background-color: #844243;
+    color: #D6731E;
 }
 main.ocean {
     background-color: #77aafc;
