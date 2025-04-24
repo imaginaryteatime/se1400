@@ -71,16 +71,19 @@ nav.endnav a {
 }
 nav.homenav a:hover {
     background-color: #427044;
+    color: #152c15;
 }
 nav.nethernav a:hover {
     background-color: #844243;
+    color: #ffa269;
 }
 nav.oceannav a:hover {
     background-color: #77aafc;
+    color: #1e244d;
 }
 nav.endnav a:hover {
     background-color: #EEF5B2;
-    color: #142614;
+    color: #411a3e;
 }
 body {
     padding: 0px;
