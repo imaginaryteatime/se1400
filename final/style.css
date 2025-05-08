@@ -61,9 +61,11 @@ a {
     color: #d53631;
 }
 .side {
-    width: 300px;
-    height: auto;
     float: right;
+}
+.sideimg {
+    width: 100%;
+    height: auto;
 }
 .pictext {
     float: right;
