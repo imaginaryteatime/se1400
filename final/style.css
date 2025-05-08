@@ -29,7 +29,9 @@ footer {
     font-size: .5 rem;
     padding: 20px;
 }
-
+#solar {
+    width: 1050px;
+}
 /* Navigation Elements Go Here */
 
 
