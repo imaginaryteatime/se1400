@@ -1,9 +1,12 @@
 /* Structual Elements Go Here */
 #container {
     display: grid;
-    
+    grid-template-columns: minmax(0px, 1fr) repeat(8, minmax(0, 175px)) minmax(0px, 1fr);
 }
-
+nav {
+    grid-column: 0 / 1;
+    background-color: #edeeef;
+}
 
 /* Navigation Elements Go Here */
 
