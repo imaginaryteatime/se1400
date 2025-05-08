@@ -1,5 +1,5 @@
 /* Structual Elements Go Here */
-#container {
+#wrapper {
     display: grid;
     grid-template-columns: minmax(0px, 1fr) repeat(8, minmax(0, 175px)) minmax(0px, 1fr);
 }
@@ -7,11 +7,14 @@ nav {
     grid-column: 0 / 1;
     background-color: #edeeef;
 }
-main {
+body {
     background-color: #edeeef;
     color: #555;
     margin: 0;
     font-family: Lato;
+}
+footer {
+    grid-column: 3 / -2;
 }
 
 /* Navigation Elements Go Here */
