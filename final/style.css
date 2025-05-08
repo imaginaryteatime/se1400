@@ -7,6 +7,12 @@ nav {
     grid-column: 0 / 1;
     background-color: #edeeef;
 }
+main {
+    background-color: #edeeef;
+    color: #555;
+    margin: 0;
+    font-family: Lato;
+}
 
 /* Navigation Elements Go Here */
 
