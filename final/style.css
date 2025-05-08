@@ -5,7 +5,7 @@ body {
     margin: 0;
     font-family: Lato;
 }
-#wrapper {
+.wrapper {
     display: grid;
     grid-template-columns: minmax(0px, 1fr) repeat(6, minmax(0, 175px)) minmax(0px, 1fr);
 }
