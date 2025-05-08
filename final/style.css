@@ -62,6 +62,7 @@ a {
 }
 .side {
     float: right;
+    font-style: italic;
 }
 .sideimg {
     width: 300px;
