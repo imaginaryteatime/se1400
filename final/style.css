@@ -35,7 +35,19 @@ footer {
 
 
 /* Styling Elements Go Here */
-
-
+p {
+    line-height: 1.25 rem;
+}
+a {
+    color: #d53631;
+}
 
 /* Media Query of 960 and less goes here */
+@media only screen and (max-width: 960px) {
+    nav, main, footer {
+        grid-column: 2 / -2;
+    }
+    nav ul li a {
+        text-align: center;
+    }
+}
