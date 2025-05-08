@@ -85,7 +85,7 @@ a {
     }
     .side {
         width: 100%;
-        height: auto;
+        height: 100%;
         padding: 0px;
         float: none;
     }
