@@ -84,7 +84,7 @@ a {
         text-align: center;
     }
     .side {
-        width: 100%;
+        width: auto;
         height: 100%;
         padding: 0px;
         float: none;
