@@ -41,10 +41,14 @@ p {
 a {
     color: #d53631;
 }
-.side img {
+.side {
     width: 300px;
     height: auto;
     float: right;
+}
+.pictext {
+    float: right;
+    font-style: italic;
 }
 
 /* Media Query of 960 and less goes here */
