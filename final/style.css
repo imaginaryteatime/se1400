@@ -33,8 +33,20 @@ footer {
     width: 830px;
 }
 /* Navigation Elements Go Here */
-
-
+nav ul {
+    padding: 0px;
+    margin: 0px;
+}
+nav ul li {
+    width: 100%;
+}
+nav ul li a {
+    width: 100%;
+    text-decoration: none;
+    color: #555;
+    font-style: block;
+    padding: 10px;
+}
 
 /* Styling Elements Go Here */
 p {
