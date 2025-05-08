@@ -47,6 +47,10 @@ nav ul li a {
     font-style: block;
     padding: 10px;
 }
+nav ul li a:hover {
+    background-color: #fff;
+    color: #d53631;
+}
 
 /* Styling Elements Go Here */
 p {
