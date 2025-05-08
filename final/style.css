@@ -63,6 +63,7 @@ a {
 .side {
     float: right;
     font-style: italic;
+    padding: 5 rem;
 }
 .sideimg {
     width: 300px;
